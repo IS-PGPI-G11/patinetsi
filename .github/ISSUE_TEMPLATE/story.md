@@ -9,19 +9,21 @@ assignees: ''
 
 ---
 
-# descripcion
-como: 
-quiero:
-para: 
+# descripción
+*como*: 
+
+*quiero*:
+
+*para*: 
 
 # to-do
 - [ ] subtarea 1
 - [ ] subtarea 2
 - [ ] subtarea 3
 
-# aceptacion
+# aceptación
 - [ ] aceptación 1
 - [ ] aceptación 2
 - [ ] aceptación 3
 
-No olviden estimar temporalmente esta historia y planificarla dentro de la linea de producción del sprint en el que vaya a aser desarrollada.
+No olviden estimar temporalmente esta historia y planificarla dentro de la línea de producción del sprint en el que vaya a ser desarrollada.
